@@ -20,7 +20,7 @@ echo "Cloning website"
 mkdir -p /demo-website
 cd /demo-website
 git clone https://github.com/aman7ph/autoscaling_website.git
-cd dynamic-website-scaling
+cd autoscaling_website
 
 # Install dependencies
 echo "Installing dependencies"
